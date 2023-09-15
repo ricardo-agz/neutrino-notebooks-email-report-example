@@ -1,0 +1,5 @@
+project:
+    name: NeutrinoProject
+    version: 0.0.1
+    config:
+        port: 8080
